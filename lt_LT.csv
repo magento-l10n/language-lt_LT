@@ -1,0 +1,740 @@
+Previous,Ankstesnis
+Remove,Pašalinti
+"Remove This Item","Pašalinti šią prekę"
+"Clear All","Išvalyti viską"
+"Welcome to %store_name","Sveiki atvykę į %store_name"
+Email:,"El. paštas:"
+Password:,Slaptažodis:
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti."
+"Quick Checkout","Greitas užsakymas"
+"Order Status","Užsakymo būsena"
+"Manage Addresses","Redaguoti adresus"
+"Order History","Užsakymų istorija"
+"Thank you for your order from %store_name.","Dėkojame už jūsų užsakymą iš %store_name."
+"Billing Info","Atsiskaitymo informacija"
+"Shipping Info","Pristatymo informacija"
+"Payment Method","Mokėjimo būdas"
+"Shipping Method","Pristatymo būdas"
+"Account Dashboard","Paskyros skydelis"
+"Address Book","Mano Adresai"
+"Account Information","Mano Informacija"
+"About Us","Apie mus"
+"My Account","Mano paskyra"
+Summary,Santrauka
+Menu,Meniu
+Account,Paskyra
+Settings,Nustatymai
+Product,Produktas
+SKU,"Prekės kodas"
+Price,Kaina
+Quantity,Kiekis
+Total,"Iš viso"
+Action,Veiksmas
+"Remove Item",Ištrinti
+"Sharing Information","Dalinimosi informacija"
+Message,Žinutė
+No,Ne
+Yes,Taip
+Save,Išsaugoti
+Delete,Ištrinti
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą"
+Short,Trumpas
+Medium,Vidutinis
+"Sort Order","Rūšiavimo tvarka"
+Attributes,Savybės
+None,"Nė vienas"
+"New Address","Naujas adresas"
+State/Province,Rajonas/apskritis
+"Please select a region, state or province","Prašome pasirinkti regioną, valstiją arba provinciją"
+"Please Select","Prašome pasirinkti"
+Customers,Klientai
+"Page not found.","Puslapis nerastas."
+"Please enter at least 2 letters of the last name.","Prašome įvesti bent 2 raides pavardės."
+"Please enter a valid email address.","Prašome įvesti galiojantį el. pašto adresą."
+"Please enter the quantity of items to add to cart.","Įveskite prekių, kurias norite įtraukti į krepšelį, kiekį."
+label,etiketė
+Inactive,Neaktyvus
+Active,Aktyvus
+"Please enter the message.","Prašome įvesti žinutę."
+"Please enter the first name.","Prašome įvesti vardą."
+"Please enter the last name.","Įveskite pavardę."
+"Please enter a valid email address(for example, daniel@x.com).","Prašome įvesti galiojantį el. pašto adresą (pvz., jonas@jonaitis.com)."
+Type,Tipas
+"Shipping Address","Pristatymo Adresas"
+Company,Įmonė
+Address,Adresas
+"Street Address",Adresas
+"Street Address %1","Adresas %1"
+City,Miestas
+"Please select a region, state or province.","Prašome pasirinkti regioną, valstiją arba provinciją."
+"Zip/Postal Code","Pašto kodas"
+Country,Šalis
+"Phone Number","Telefono numeris"
+Fax,Faksas
+Qty,Kiekis
+Back,Grįžti
+Edit,Redaguoti
+"Add New","Pridėti naują"
+"First Name",Vardas
+Name,Vardas
+Email,"El. paštas"
+"* Required Fields","* Privalomi laukai"
+Next,Toliau
+"Last Name",Pavardė
+Status,Būsena
+"Product Name","Prekės pavadinimas"
+"Required Fields","Privalomi laukai"
+"Search Options","Paieškos nustatymai"
+Search,Ieškoti
+"Search Results","Paieškos rezultatai"
+Actions,Veiksmai
+"Your search returned no results.","Pagal jūsų ieškotą frazę prekių nebuvo rasta."
+"Search By","Ieškoti pagal"
+"Add to Cart","Į krepšelį"
+"Ship Here","Siųsti čia"
+Date,Data
+"Expiration Date","Galiojimo data"
+"Credit Card Type","Kreditinės kortelės tipas"
+"Credit Card Number","Kortelės numeris"
+"Card Verification Number","Kortelės patvirtinimo numeris"
+Enabled,Įjungta
+Title,Pavadinimas
+Debug,Derinti
+"Start Date","Pradžios data"
+Cancel,Atšaukti
+of,iš
+Add,Pridėti
+Select...,Pasirinkite...
+"Select All","Rinktis viską"
+"Search by keyword","Ieškoti pagal raktažodį"
+Keyword,Raktažodis
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Jūsų pašto kodą turi būti tarp 902xx-xxxx ir 905-xx-xxxx"
+"Please select an option.","Prašome pažymėti pasirinkimą."
+"Please enter a valid email address (Ex: johndoe@domain.com).","Prašome įvesti galiojantį el. pašto adresą (pvz: jonas@jonaitis.com)."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimaliausias ilgis šiame lauke turi būti lygus arba didesnis nei %1 simboliai."
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Slaptažodyje minimalus skirtingų tipų simbolių turi būti %1. Tipai simbolių: mažosios, didžiosio raidės, skaitmenys, specialūs simboliai."
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Prašome įvesti galiojantį pašto kodą (pvz: 90602 arba 90602-1234)."
+"Please enter a valid zip code.","Prašome įvesti galiojantį pašto kodą."
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Prašome įvesti galiojantį el. pašto adresus, atskirdami juos kableliais. Pvz., jonas@jonaitis.com, petras@petraitis.com."
+"This is a required field.","Tai yra privalomas laukas."
+OK,Gerai
+Close,Uždaryti
+Ok,Gerai
+Submit,Siųsti
+Reset,"Nustatyti iš naujo"
+Apply,Pritaikyti
+Export,Eksportuoti
+Custom,Pasirinktinis
+"per page","per puslapį"
+Yes/No,Taip/Ne
+"Place Order",Užsakyti
+"--Please Select--","--Prašome pasirinkti--"
+"Please, enter valid Credit Card Number","Prašome įvesti galiojantį kortelės numerį"
+"Please, enter valid Expiration Date","Įveskite galiojančią galiojimo datą"
+"Please, enter valid Card Verification Number","Prašome įvesti galiojantį kortelės patvirtinimo numerį"
+"Credit Card Information","Kreditinės kortelės informacija"
+"Save for later use.","Išsaugoti vėlesniam naudojimui."
+Phone,Telefonas
+"First name is too long.","Vardas yra per ilgas."
+"Last name is too long.","Pavardė per ilga."
+"Order ID","Užsakymo nr."
+Month,Mėnuo
+Year,Metai
+"Billing Address","Mokėtojo Adresas"
+Tax,Mokesčiai
+"Excl. Tax","Be PVM"
+"Incl. Tax","Su PVM"
+"Total Incl. Tax","Iš viso (su PVM)"
+Error,Klaida
+"Please click ","Spauskite "
+here,čia
+Worldpay,WorldPay
+"Payment was canceled.","Mokėjimas buvo atšauktas."
+"continue shopping","tęsti apsipirkimą"
+Password,Slaptažodis
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dėkojame už užklausą. Mes jums atsakyme kaip galima greičiau."
+"Name is missing","Trūksta vardo"
+"Write Us","Parašykite mums"
+"What’s on your mind?","Jūsų klausimas"
+"Contact Form","Kontaktų Forma"
+Contacts,Kontaktai
+"Contact Us",Kontaktai
+"Email Options","El. pašto parinktys"
+"You cannot add ""%1"" to the cart.","Negalite pridėti ""% 1"" į krepšelį."
+Preview,Peržiūra
+Description,Aprašymas
+Thumbnail,Miniatiūra
+"End Date","Pabaigos data"
+Content,Turinys
+"Meta Keywords","Meta Raktažodžiai"
+Products,Prekės
+Visibility,Matomumas
+Continue,Tęsti
+name,vardas
+description,aprašymas
+All,Visi
+"Orders and Returns","Užsakymai ir Grąžinimai"
+"Orders and Returns Search Form","Užsakymų ir Grąžinimų paieškos forma"
+Next/Previous,Kitas/ankstesnis
+Update,Atnaujinti
+Home,Pradžia
+"Go to Home Page","Grįžti į pradinį puslapį"
+Ordered,Užsakyta
+"Are you sure?","Ar esate įsitikinę?"
+N/A,N/D
+"Some error","Kai kurios klaidos"
+Orders,Užsakymai
+Invoices,Sąskaitos
+Shipping,Pristatymas
+"Items Ordered","Užsakytos prekės"
+"Newsletter Subscription","Naujienlaiškio prenumerata"
+"Shopping Cart","Prekių krepšelis"
+"Clear Shopping Cart","Išvalyti krepšelį"
+"Last Ordered Items","Paskutinės užsakytos prekės"
+"Wish List","Pageidavimų sąrašas"
+Print,Spausdinti
+Reorder,"Užsakyti iš naujo"
+" [deleted]"," [ištrinta]"
+"Order Information","Užsakymo informacija"
+"Order Shipments","Užsakymo siuntimai"
+Subtotal,"Tarpinė suma"
+"Shipping & Handling","Pristatymas ir Paruošimas"
+"Discount (%1)","Nuolaida (%1)"
+Discount,Nuolaida
+"Grand Total","Iš Viso"
+"Order # %1","Užsakymas #%1"
+"Back to My Orders","Atgal į mano užsakymus"
+"View Another Order","Žiūrėti kitą užsakymą"
+"My Orders","Mano užsakymai"
+"""%1"" coupon code is not valid.","""%1"" kupono kodas negalioja."
+"You entered incorrect data. Please try again.","Įvedėte neteisingus duomenis. Bandykite dar kartą."
+"Shipping Address: ","Pristatymo Adresas: "
+"Billing Address: ","Atsiskaitymo Adresas: "
+"Please specify a shipping method.","Pasirinkite siuntimo būdą."
+"Please specify a payment method.","Pasirinkite apmokėjimo būdą."
+Guest,Svečias
+"Please enter the zip/postal code.","Įveskite pašto indeksą/kodą."
+Pending,Laukiama
+Canceled,Atšauktas
+"Order # ","Užsakymo nr."
+"Order Date: ","Užsakymo data: "
+"Sold to:","Jūsų informacija:"
+"Ship to:",Gavėjas:
+"Payment Method:","Mokėjimo būdas:"
+"Shipping Method:","Pristatymo būdas:"
+"Invoice # ","Sąskaita # "
+Processing,Vykdoma
+Customer,Klientas
+"Apply Coupon Code","Panaudoti kupono kodą"
+"Remove Coupon Code","Pašalinti kupono kodą"
+"Order Total","Užsakymo suma"
+"Add New Address","Pridėti naują adresą"
+"Save in address book","Įrašyti adresų knygelėje"
+Subtotal:,"Tarpinė suma:"
+"Please select","Prašome pasirinkti"
+"Move to Wish List","Perkelti į pageidavimų sąrašą"
+Item,Prekė
+"Subtotal (Excl. Tax)","Tarpinė suma (be mokesčių)"
+"Subtotal (Incl. Tax)","Iš viso (su PVM)"
+Message:,Žinutė:
+"Total Tax","Iš viso mokesčių"
+Comment,Komentaras
+"Order Date","Užsakymo data"
+"Order Date (%1)","Užsakymo data (%1)"
+"Shipped By","Išsiųsta su"
+"Tracking Number","Sekimo numeris"
+"Billing Last Name","Mokėtojo pavardė"
+"Find Order By","Rasti užsakymą pagal"
+"ZIP Code","Pašto kodas"
+"Billing ZIP Code","Mokėtojo pašto kodas"
+"Order #","Užsakymo nr."
+"Ship To",Gavėjas
+"View Order","Peržiūrėti užsakymą"
+"You have placed no orders.","Jūs nepateikėte užsakymų."
+"Print Order","Spausdinti užsakymą"
+"Print All Invoices","Spausdinti visas sąskaitas"
+"Invoice #","Sąskaita #"
+"Print Invoice","Spausdinti sąskaitą"
+"Qty Invoiced","Kiekis išrašytoje SF"
+"About Your Order","Apie jūsų užsakymą"
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Užsakymo data:</span> %1"
+"Shipment #%1","Siunta #%1"
+"Qty Shipped","Išsiųstas kiekis"
+"Recent Orders","Naujausi užsakymai"
+"View All","Peržiūrėti visus"
+"Recently Ordered","Neseniai Užsakyta"
+"Subtotal after discount","Tarpinė suma po nuolaidos"
+"ZIP/Post Code","Pašto kodas"
+"Invoice Date","Sąskaitos-faktūros data"
+"Total Quantity","Bendras kiekis"
+"Print Invoices","Spausdinti sąskaitas"
+"Disallowed file type.","Neleistinas failo tipas."
+"Your order number is: %1.","Jūsų užsakymo nr.: %1."
+"Private Sales","Privatųs pardavimai"
+"Remember Me","Prisiminti mane"
+"What's this?","Kas tai?"
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Pažymėti ""prisiminti mane"", kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos."
+Nickname,Slapyvardis
+Review,Atsiliepimas
+Wishlist,"Pageidavimų sąrašas"
+"My Wish Lists","Mano norų sąrašas"
+"1 item in wish list","1 prekė pageidavimų sąraše"
+"%1 items in wish list","%1 prekės pageidavimų sąraše"
+"We can't add the item to shopping cart.","Negalime pridėti šios prekės į jūsų krepšelį."
+"Product(s) %1 have required options. Each product can only be added individually.","%1 Produktas(ai) turi privalomus pasirinkimus. Kiekvienas produktas gali būti pridėtas tik individualiai."
+"%1 product(s) have been added to shopping cart: %2.","%1 produktas(-ų) buvo pridėta į pirkinių krepšelį: %2."
+"%1's Wish List","%1's pageidavimų sąrašas"
+"You must select items to add to the cart.","Turite pasirinkti prekes, kurias norite pridėti į krepšelį."
+"Copy to Wish List","Kopijuoti į pageidavimų sąrašą"
+"Move Selected to Wish List","Perkelti pasirinkimus į pageidavimų sąrašą"
+"Copy Selected to Wish List","Kopijuoti pasirinkimus į pageidavimų sąrašą"
+"My Wish Lists Link","Mano norų sąrašo nuoroda"
+Added,Pridėta
+"Add to Wish List","Į pageidavimų sąrašą"
+"Free Shipping","Nemokamas pristatymas"
+Qty:,Kiekis:
+message,žinutė
+"Choose an Option...","Pasirinkti parinktį..."
+Availability:,Prieinamumas:
+"Out of stock","Nėra sandėlyje"
+Store,Parduotuvė
+"Proceed to Checkout","Pradėti pirkimą"
+"Remove item",Ištrinti
+"Continue Shopping","Tęsti apsipirkimą"
+"Thank you,","Ačiū,"
+"Apply Discount Code","Įvesk nuolaidos kodą"
+"Enter discount code","Nuolaidos kodas"
+"Apply Discount","Pritaikyti nuolaidą"
+"Cancel coupon","Atšaukti kuponą"
+"Go to Checkout","Pereiti prie apmokėjimo"
+Optional,Neprivaloma
+Stores,Parduotuvės
+"Unable to save address. Please check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis."
+"Coupon code is not valid","Kupono kodas negalioja"
+"This shipping method is not available. To use this shipping method, please contact us.","Šis pristatymo būdas neprieinamas. Jei norite pasinaudoti šiuo pristatymo būdą, prašome susisiekti su mumis."
+"Unable to save address. Please, check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis."
+"Click for price","Tikrinti kainą"
+"Please enter a message.","Prašome įvesti žinutę."
+"Terms and Conditions","Taisyklės ir Sąlygos"
+"Checkout Conditions","Atsiskaitymo sąlygos"
+"Checkout Terms and Conditions","Atsiskaitymo taisyklės ir sąlygos"
+"Terms & Conditions","Taisyklės ir Sąlygos"
+"Your Password","Jūsų slaptažodis"
+"You did not sign in correctly or your account is temporarily disabled.","Prašome patikslinti prisijungimo duomenis, nepavykus prisijungti susisiekite su administratoriumi."
+"No permissions requested","Jokių leidimų užklausų"
+"Available APIs","Prieinami API"
+"Resource Access","Resursų prieiga"
+Resources,Resursai
+"Integrations API Configuration","Integracijos API konfigūracija"
+"Integrations API configuration file.","Integracijos API konfigūracijos failas."
+item,prekė
+"Edit item","Redaguoti elementą"
+"Edit Your Cart","Redaguoti krepšelį"
+"Catalog Advanced Search","Katalogo Išplėstinė Paieška"
+Results,Rezultatai
+"Advanced Search Results","Išplėstinės paieškos rezultatai"
+"Search results for: '%1'","Paieškos rezultatai: ""%1"""
+"Search Settings","Paieškos nustatymai"
+"Advanced Search","Išplėstinė paieška"
+"Popular Search Terms","Populiariausi paieškos terminai"
+Position,Rikiavimas
+Day,Diena
+"Add Product","Pridėti produktą"
+"Add New Attribute","Pridėti naują atributą"
+"Visible in Advanced Search","Matoma išplėstinėje paieškoje"
+"Images (.gif, .jpg, .png)","Vaizdai (.jpg, .gif, .png)"
+"You added product %1 to the comparison list.","Produktą %1 įtraukėte į palyginimo sąrašą."
+"You removed product %1 from the comparison list.","Jūs pašalinote produktą %1 iš palyginimo sąrašo."
+"%1 items","%1 įrašai(-ų)"
+"Are you sure you want to remove this item from your Compare Products list?","Ar tikrai norite pašalinti šį produktą iš palyginimo sąrašo?"
+"Add Selected Products","Pridėti pasirinktus produktus"
+"In Stock",Sandėlyje
+"Out of Stock","Nėra sandėlyje"
+"Regular Price","Įprasta kaina"
+"Compare Products","Prekių palyginimas"
+"Print This Page","Spausdinti šį puslapį"
+"Remove Product","Pašalinti produktą"
+"In stock",Sandėlyje
+"You have no items to compare.","Jūs nepasirinkote prekių palyginimui."
+Compare,Palyginti
+Prev,Atgal
+"We can't find products matching the selection.","Nėra jokių prekių, atitinkančių pasirinkimą."
+"Add to Compare","Pridėti palyginimui"
+"Items %1-%2 of %3","Prekių %1-%2 iš %3"
+"%1 Item","%1 įrašas"
+"%1 Items","%1 Įrašai(-ų)"
+Show,Rodyti
+"Sort By","Rūšiuoti pagal"
+"More Information","Daugiau informacijos"
+Availability,Prieinamumas
+Adding...,Dedama...
+"Add to Wishlist","Pridėti į pageidavimų sąrašą"
+Details,Išsamiau
+"Add To Cart","Į krepšelį"
+"Add To Compare","Pridėti palyginimui"
+"Page not found","Puslapis nerastas"
+Partners,Partneriai
+"Magento Marketplace","Magento prekyvietė"
+"Platinum Partners","Platininiai partneriai"
+"Featured Platinum Partners","Rekomenduojami platininiai partneriai"
+"Partner search","Partnerių paieška"
+"More Partners","Daugiau partnerių"
+"Visit Magento Marketplaces","Apsilankykite Magento prekyvietę"
+"Read More","Skaityti daugiau"
+"Partner Page","Partnerių puslapis"
+"No partners were found","Nerasta jokių partnerių"
+Daily,Kasdien
+subtotal,"tarpinė suma"
+"grand total","iš viso"
+Rule,Taisyklė
+"Bank Transfer Payment","Banko pavedimu"
+"Cash On Delivery Payment","Grynais pinigais pristatymo metu"
+Price:,Kaina:
+Weekly,"Kas savaitę"
+Monthly,"Kas mėnesį"
+"Zip/Post Code","Pašto kodas"
+"Grand Total (Excl.Tax)","Suma (Atsk.Mok.)"
+"Grand Total (Incl.Tax)",Suma
+"This rule no longer exists.","Ši taisyklė nebeegzistuoja."
+"Maximum zip code length is 9.","Didžiausias pašto kodas ilgis yra 9."
+"Use digits only for the zip code.","Pašto kode naudokite tik skaitmenis"
+"Not yet calculated","Dar nepaskaičiuota"
+"New Password","Naujas slaptažodis"
+"Password Confirmation","Slaptažodžio patvirtinimas"
+password,slaptažodis
+"First Name is a required field.","Vardas yra būtinas laukas."
+"Last Name is a required field.","Pavardė yra būtinas laukas."
+"Password is required field.","Slaptažodio laukas yra būtinas."
+"Password Help","Slaptažodžio pagalba"
+"Email address","El. paštas"
+"Forgot your password?","Pamiršote slaptažodį?"
+"Reset a Password","Atstatyti slaptažodį"
+"Confirm New Password","Patvirtinti naują slaptažodį"
+"Reset Password","Atstatyti slaptažodį"
+"Password Change","Slaptažodžio keitimas"
+Amounts,Sumos
+Bestsellers,Perkamiausi
+"New Customers","Naujiems klientams"
+Average,Vidurkis
+Views,Peržiūros
+Revenue,Pajamos
+"All Files","Visi failai"
+"Images Cache","Vaizdų podėlis"
+Clear,Išvalyti
+"Search Index","Paieškos indeksas"
+"All Cache","Visi podėliai"
+"No change","Jokių pokyčių"
+"Delete %1","Ištrinti %1"
+"Delete Store","Ištrinti parduotuvę"
+"Save Store","Išsaugoti parduotuvę"
+"Edit Store","Redaguoti praduotuvę"
+"New Store","Nauja parduotuvė"
+"Edit Store View","Redaguoti parduotuvės rodinį"
+"New Store View","Naujas parduotuvės rodinys"
+"Web Site Information","Svetainės informacija"
+"Default Store","Numatytoji parduotuvė"
+"Create Website","Kurti svetainę"
+"Create Store","Kurti parduotuvę"
+"Create Store View","Kurti parduotuvės rodinį"
+"Date selector","Datos parinkiklis"
+"[ deleted ]","[ ištrinta ]"
+"Order #%1","Užsakymas #%1"
+"previous page","ankstesnis puslapis"
+"Sign in",Prisijungti
+"Reload Data","Atnaujinti duomenis"
+"Sign Out",Atsijungti
+"Previous page","Ankstesnis puslapis"
+"ZIP/Postal Code","Pašto kodas"
+"VAT Number","PVM mokėtojo kodas"
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> 404 klaida</h1> <p>Puslapis nerastas.</p>"
+Filter,Filtruoti
+"This shipping method is not available. Please specify the zip code.","Šis pristatymo būdas nėra prieinamas. Prašome nurodyti pašto kodą."
+Contents,Turinys
+"Track this shipment","Sekti šią siuntą"
+"Print All Shipments","Spausdinti visas siuntas"
+"Shipment #","Siunta #"
+"Print Shipment","Spausdinti siuntas"
+"Tracking Number(s):","Sekimo numeris(-iai):"
+"Tracking Number:","Sekimo numeris:"
+"contact us",kontaktai
+"Shipping Methods","Pristatymo būdai"
+"Track your order","Sekti užsakymą"
+"My Downloadable Products","Mano Download'ai"
+"You have not purchased any downloadable products yet.","Jūs nepirkote jokių download'ų dar."
+"Zip/Postal Code is Optional for","Pašto kodas yra neprivalomas"
+"My Cart (1 item)","Mano krepšelis (1 prekė)"
+"My Cart (%1 items)","Mano krepšelis (%1 prekės)"
+"My Cart","Mano krepšelis"
+"For delivery questions.","Pristatymo klausimais."
+"Your session has expired","Jūsų sesijos laikas baigėsi"
+"A letter with further instructions will be sent to your email.","Laiškas su tolesnėmis instrukcijomis bus išsiųstas į jūsų elektroninio pašto adresą."
+"You added %1 to your shopping cart.","%1 įkelta į krepšelį."
+"You used coupon code ""%1"".","Panaudotas kupono kodas ""%1""."
+"The coupon code ""%1"" is not valid.","Kupono kodas ""%1"" negalioja."
+"You canceled the coupon code.","Jūs atšaukėte kupono kodą."
+"We cannot apply the coupon code.","Mes negalime pritaikyti kupono kodą."
+Checkout,Pirkti
+" item"," prekė"
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Turėsite aktyvuoti savo paskyrą. Jūsų el. paštu išsiuntėme laišką su aktyvavimo nuoroda. Jeigu jūs negavote laiško <a href=""%1""> paspaudę čia</a> išsiūsime naują."
+"Load customer quote error","Įkelto kliento klaida"
+Error!,Klaida!
+"DB exception","Duomenų bazės klaida"
+"Print receipt","Spausdinti kvitą"
+"Cancel Coupon","Atšaukti kuponą"
+"Update Shopping Cart","Atnaujinti krepšelį"
+"Update Cart","Atnaujinti krepšelį"
+"Edit item parameters","Redaguoti prekės parametrus"
+"You have no items in your shopping cart.","Jūs neturite prekių savo krepšelyje."
+"Click <a href=""%1"">here</a> to continue shopping.","Spauskite <a href=""%1"">čia</a> norėdami tęsti apsipirkimą."
+"Estimate Shipping and Tax","Įvertinti siuntimo išlaidas ir mokesčius"
+"Your order # is: <span>%1</span>.","Jūsų užsakymo nr.: <span>%1</span>."
+"We'll email you an order confirmation with details and tracking info.","El. paštu gausite užsakymo patvirtinimą."
+Total:,"Iš viso:"
+"Shipping Address:","Pristatymo Adresas:"
+"Sign In",Prisijungti
+"Email Address","El. paštas"
+"Forgot Your Password?","Pamiršote slaptažodį?"
+"My billing and shipping address are the same","Mano pristatymo bei atsiskaitymo adresas yra tas pats"
+"Estimated Total","Numatoma suma"
+"You can create an account after checkout.","Jūs galėsite sukurtį paskyra po užsakymo."
+"You already have an account with us. Sign in or continue as guest.","Jūs jau turite sąskaitą pas mus. Prisijunkite arba tęskite kaip svečias."
+Login,Prisijungti
+"See Details","Peržiūrėti detales"
+"Cart Subtotal","Krepšelio tarpinė suma"
+"You can track your order status by creating an account.","Savo užsakymo būseną galite sekti ir sukūrus savo paskyrą."
+"Ship To:",Gavėjas:
+edit,redaguoti
+"Order Summary","Užsakymo santrauka"
+"View and Edit Cart","Peržiūrėti ir redaguoti krepšelį"
+"View Details","Peržiūrėti detales"
+"Provided Zip/Postal Code seems to be invalid.","Jūsų įvesto pašto kodo struktūra netinkama."
+" Example: "," Pavyzdys: "
+"If you believe it is the right one you can ignore this notice.","Jei manote, kad įrašėte teisingai, galite ignoruoti šį pranešimą."
+"Are you sure you would like to remove this item from the shopping cart?","Ar tikrai norite ištrinti šią prekę?"
+"Review & Payments","Apmokėjimas & Patvirtinimas"
+"Save Address","Išsaugoti adresą"
+"We'll send your order confirmation here.","Čia išsiųsime užsakymo patvirtinimą."
+"Thank you for your purchase!","Dėkojame už jūsų užsakymą!"
+"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print""> Spausdinti kvitą</a>"
+"Forgot Password","Pamiršau slaptažodį"
+"View and edit cart","Peržiūrėti ir redaguoti krepšelį"
+"Select Method","Pasirinkite būdą"
+"Method Title",Metodas
+"Carrier Title",Vėžėjas
+"Sorry, no quotes are available for this order at this time","Atsiprašome, šiam užsakymui šiuo metu nėra prieinamas joks pasirinkimas"
+"Item in Cart","Prekė krepšelyje"
+"Items in Cart","Prekės krepšelyje"
+"Incorrect CAPTCHA","Neteisingi paveikslėlio duomenys"
+"Incorrect CAPTCHA.","Neteisingi paveikslėlio duomenys."
+"Reload captcha",Atnaujinti
+"Please type the letters below","Įveskite raides, žemiau"
+"Successful! Test again?","Pavyko! Testuoti vėl?"
+"Connection failed! Test again?","Ryšys nutrūko! Testuoti vėl?"
+"Search Term","Paieškos terminas"
+"Search Terms","Paieškos terminai"
+"Add New Search Term","Pridėti naują paieškos terminą"
+"Save Search","Išsaugoti paiešką"
+"Delete Search","Ištrinti paiešką"
+"New Search","Nauja paieška"
+"Search Query","Paieškos užklausa"
+"Redirect URL","Peradresavimo URL"
+"Edit Search","Redaguoti paiešką"
+"There are no search terms available.","Nėra jokių paieškos terminų."
+yes,taip
+"Contact Information","Kontaktinė informacija"
+"Use as my default billing address","Naudoti kaip pagrindinį atsiskaitymo adresą"
+"Use as my default shipping address","Naudoti kaip pagrindinį pristatymo adresą"
+"Go back",Atgal
+"Change Email","Keisti el.paštą"
+"Change Password","Keisti slaptažodį"
+"Change Email and Password","Keisti el. pašto adresą ir slaptažodį"
+"Current Password","Dabartinis slaptažodis"
+"Password Strength","Slaptažodžio sudėtingumas"
+"No Password","Jokio slaptažodžio"
+"Personal Information","Asmeninė informacija"
+"Sign Up for Newsletter","Užsisakykite naujienlaiškį"
+"Sign-in Information","Prisijungimo informacija"
+"Confirm Password","Patvirtinkite slaptažodį"
+"Create an Account","Sukurti paskyrą"
+"Default Billing Address","Numatytasis atsiskaitymo adresas"
+"Default Shipping Address","Pristatymo adresas"
+"Order #%1.","Užsakymas #%1."
+"Change Billing Address","Keisti atsiskaitymo adresą"
+"Edit Address","Redaguoti adresą"
+"Enter a New Address","Įveskite naują adresą"
+"Edit Items","Redaguoti elementus"
+"Shipping To",Pristatymas
+"Order Review","Užsakymo peržiūra"
+"Grand Total:","Iš Viso:"
+"Select Shipping Method","Pasirinkite pristatymo būdą"
+"Your order number is: ","Jūsų užsakymo nr.:"
+"Privacy and Cookie Policy","Privatumo ir slapukų politika"
+"Save and Continue","Išsaugoti ir tęsti"
+"Items %1 to %2 of %3 total","%1 - %2 iš %3"
+"%1 Item(s)","%1 Įrašas(-ai)"
+"Allowed Scopes","Leidžiamos apimtys"
+"You need more permissions to delete this item(s): %1.","Jums reikia daugiau teisių, kad galėtumėte ištrinti šiuos įrašus: %1."
+"You need more permissions to apply some of the rule updates.","Jums reikia daugiau teisių, kad galėtumėte pritaikyti kai kuriuos taisyklių pakeitimus."
+"Please assign this entity to a store view.","Prašome priskirti šio objekto parduotuvė rodinyje."
+"You can create orders only in an active store.","Užsakymus galite sukurti tik aktyvioje parduotuvėje."
+"Incorrect website ID: %1","Neteisingas parduotuvės ID: %1"
+"You need more permissions to access website ""%1"".","Neužtenka prieigos teisių, kad galėtumėte naudotis svetaine „%1“."
+"Incorrect store ID: %1","Neteisingas parduotuvės ID: %1"
+"You need more permissions to save this setting.","Jums reikia daugiau teisių, kad išsaugotumėte šį nustatymą."
+"Role Scopes","Rolės Aprėptys"
+Help,Pagalba
+"Continue to PayPal","Tęsti su PayPal"
+"Home Page","Pradinis puslapis"
+"Reviews %1","Atsiliepimai %1"
+Reviews,Atsiliepimai
+"My Product Reviews","Mano produktų apžvalgos"
+"Please enter a nickname.","Prašome įvesti slapyvardį."
+"You have submitted no reviews.","Jūs nepateikėte atsiliepimų."
+"Be the first to review this product","Būkite pirmas palikęs atsiliepimą"
+"Write Your Own Review","Parašykite savo atsiliepimą"
+"You're reviewing:","Jūsų Atsiliepimas apie:"
+"Submit Review","Pridėti Atsiliepimą"
+"Review by","Peržiūrėti pagal"
+"Continue Processing","Tęsti apdorojimą"
+"Applies To",Taikomas
+"Related Search Terms","Susiję paieškos terminai"
+"Enable Search Recommendations","Įjungti paieškos rekomendacijas"
+"Enable Search Suggestions","Įjungti paieškos frazių siūlymus"
+"Search Suggestions Count","Siūlomų paieškos frazių skaičius"
+"Manage Shopping Cart","Tvarkyti pirkinių krepšelį"
+"Create Order","Sukurti užsakymą"
+"Clear my shopping cart","Išvalyti mano krepšelį"
+"Last ordered items (%1)","Paskutinės užsakytos prekės (%1)"
+"Add to Order","Pridėti prie užsakymo"
+"Availability: Out of stock.","Prieinamumas: nėra sandelyje"
+"We can't add the item to your cart.","Negalime pridėti šios prekės į jūsų krepšelį."
+"You added %1 product to your shopping cart.","%1 įkelta į krepšelį."
+"You added %1 products to your shopping cart.","%1 įkelta į krepšelį."
+"SKU: ","Prekės kodas: "
+Sku,"Prekės kodas"
+"View Shopping Cart","Peržiūrėti pirkinių krepšelį"
+"SKU: Ascending","Prekės kodas: didėjimo tvarka"
+"SKU: Descending","Prekės kodas: mažėjimo tvarka"
+"Registered Customers","Registruotiems klientams"
+ordered,užsakyta
+Newsletter,Naujienlaiškis
+"We saved the subscription.","Išsaugota prenumerata."
+"We removed the subscription.","Pašalinome prenumeratą."
+"Thank you for your subscription.","Sėkmingai užprenumeravote naujienlaiškį."
+Cancelled,Atšauktas
+"Newsletter Message Preview","Naujienlaiškio pranešimo peržiūra"
+"Sign Up for Our Newsletter:","Užsisakykite naujienlaiškį:"
+"Enter your email address","Įveskite savo el.pašto adresą"
+Subscribe,Prenumeruoti
+"You have been successfully subscribed to our newsletter.","Jūs sėkmingai užsiprenumeravote mūsų naujienlaiškį."
+"You have been unsubscribed from the newsletter.","Jūs buvote ištrintas iš mūsų naujienlaiškio."
+Subscriber,Prenumeratorius
+"Customer First Name","Kliento vardas"
+"Customer Last Name","Kliento pavardė"
+Subscribed,Prenumeruojamas
+"Newsletter Subscriptions","Naujienlaiškių prenumeratos"
+save,išsaugoti
+"Are you sure you want to continue?","Ar tikrai norite tęsti?"
+"User Password","Vartotojo slaptažodis"
+"FTP Password","FTP slaptažodis"
+"More information","Daugiau informacijos"
+"Thank you, %store_name","Ačiū, %store_name"
+"Read Details","Perskaityti detales"
+"Mark as Read","Pažymėti kaip perskaitytą"
+"Messages Inbox","Gautos žinutės"
+"You have %1 new system messages","Jūs turite %1 naujas sistemines žinutes"
+"You have %1 new system message","Jūs turite %1 naują sisteminę žinutę"
+"Incoming Message","Gautos žinutės"
+close,uždaryti
+Notifications,Pranešimai
+"The message has been marked as Read.","Pranešimas buvo pažymėtas kaip perskaitytas."
+"1 Hour","1 val"
+Banners,"Reklaminiai skydeliai"
+"Add Banner","Pridėti reklaminį skydelį"
+"Save Banner","Išsaugoti reklaminį skydelį"
+"New Banner","Naujas reklaminis skydelis"
+"Default Content","Numatytasis turinys"
+"No Default Content","Jokio numatytojo turinio"
+"Banner Properties","Skydelio savybės"
+"You are subscribed to our newsletter.","Jūs esate užsiprenumeravę mūsų naujienlaiškį."
+"You aren't subscribed to our newsletter.","Jūs nesate prisiregistravęs prie mūsų naujienlaiškio."
+"You have not set a default shipping address.","Nenustatė pagrindinio pristatymo adreso."
+"You have not set a default billing address.","Nenustatė pagrindinio atsiskaitymo adreso."
+"Customer Login","Vartotojo prisijungimas"
+"Create New Customer Account","Kurti naują kliento paskyrą"
+"Thank you for registering with %1.","Ačiū, kad užsiregistravote %1."
+"Please make sure your passwords match.","Įsitikinkite ar jūsų slaptažodžiai sutampa."
+"You saved the account information.","Jūs išsaugojote paskyros informaciją."
+"Please enter your email.","Įveskite savo el. pašto adresą."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jei sąskaita bus susijusiu %1, gausite el. laišką su nuoroda iš naujo nustatyti slaptažodį."
+"You saved the address.","Adresas išsaugotas."
+"Login successful.","Sėkmingai prisijungėte."
+"Invalid login or password.","Neteisingas el. pašto adresas arba slaptažodis."
+"Password cannot be the same as email address.","Slaptažodis negali būti toks pat kaip elektroninio pašto adresą."
+"VAT Number is valid.","PVM mokėtojo kodas yra teisingas."
+"Please enter a valid VAT number.","Prašome įvesti tinkama PVM mokėtojo kodą."
+"Thank you for registering with","Ačiū, kad užsiregistravote"
+"Please enter new password.","Įveskite naują slaptažodį."
+Newsletters,Naujienlaiškis
+"You are subscribed to ""General Subscription"".","Jūs užsiprenumeravote ""Bendra Prenumerata""."
+"Default Addresses",Adresai
+"You have no default billing address in your address book.","Jūs neturi jokių priskirtų adresų."
+"Change Shipping Address","Keisti pristatymo adresą"
+"Additional Address Entries","Papildomi Adresai"
+"Delete Address","Ištrinti adresą"
+"You have no other address entries in your address book.","Jūsų adresų knygoje nėra kitų adresų įrašų."
+"It's a default billing address.","Tai yra pagrindinis atsiskaitymo adresas."
+"It's a default shipping address.","Tai yra pagrindinis pristatymo adresas."
+"Please enter your email address below to receive a password reset link.","Įveskite savo el. paštą, norėdami gauti slaptažodžio atstatymo nuorodą."
+"Reset My Password","Atstatyti slaptažodį"
+"If you have an account, sign in with your email address.","Jeigu jau turite susikurę paskyrą, prisijunkite naudodami savo el. pašto adresą."
+"Subscription option",Prenumeratos
+"General Subscription","Bendra Prenumerata"
+"Set a New Password","Nustatyti naują slaptažodį"
+"You have signed out and will go to our homepage in 5 seconds.","Išsiregistravote. Už 5 sekundžių būsite nukreipti į pradinį puslapį."
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Paskyros sukūrimas turi daug privalumų: greitesnis atsiskaitymas, galimybe įvesti daugiau nei vieną pristatymo adresą, sekti užsakymus ir dar daugiau."
+"Tax/VAT number","PVM mokėtojo kodas"
+"Confirm Your Account","Patvirtinkite savo paskyrą"
+"Are you sure you want to delete this address?","Jūs įsitikinęs, kad norite ištrinti šį adresą?"
+Weak,Silpnas
+Strong,Stiprus
+"Always optional.","Visada neprivaloma."
+"Billing Lastname","Mokėtojo pavardė"
+"Edit Account Information","Redaguoti paskyros informaciją"
+"Password forgotten","Pamirštas slaptažodis"
+"My Dashboard","Valdymo skydelis"
+"You are signed out",Atsijungėte
+"You don't subscribe to our newsletter.","Jūs nesate užsiprenumeravę mūsų naujienlaiškio."
+"Confirm your new password.","Patvirtinkite naują slaptažodį."
+"Please enter a first name.","Prašome įvesti vardą."
+"Please enter a last name.","Prašome įvesti pavardė."
+"You subscribe to ""General Subscription"".","Jūs užsiprenumeravote ""Bendra Prenumerata""."
+"You are signed out.",Atsijungėte.
+"Ordered: ","Užsakyta: "
+"Stored Payment Methods","Mano mokėjimo būdai"
+"You have no stored payment methods.","Jūs neturite išsaugoję jokio mokėjimo būdo."
+"Wish List Sharing","Dalintis pageidavimų sąrašu"
+"My Wish List","Mano norų sąrašas"
+"%1 has been moved to your wish list.","%1 buvo perkelta(-as) į jūsų norų sąrašą."
+"Your wish list has been shared.","Jūsų norų sąrašu buvo pasidalyta."
+"Share Wish List","Dalintis norų sąrašu"
+"Add All to Cart","Viską į krepšelį"
+"Update Wish List","Atnaujinti norų sąrašą"
+"Move to Wishlist","Perkelti į norų sąrašą"
+"%1 has been added to your Wish List.","%1 buvo pridėta į jūsų pageidavimų sąrašą."
+"Email addresses, separated by commas","Įvesti kelis el. pašto adresus, atskirkite juos kableliais"
+"Check here to link an RSS feed to your Wish List.","Pažymėkite čia norėdami susieti RSS kanalą su savo norų sąrašu."
+"You have no items in your wish list.","Jūs neturite prekių savo norų sąraše."
+"My Wish List Link","Mano norų sąrašo nuoroda"
+"10 by default. Max - 10000","Numatytoji vertė - 10. Daugiausia - 10000"
+"255 by default","Numatytoji vertė - 255"
+Detail,Išsamiau
+"Email Address:","El. paštas:"
+"First Name:",Vardas:
+"Last Name:",Pavardė:
+"total quantity","bendras kiekis"
+"total amount","bendra suma"
+"Your coupon was successfully removed.","Kuponas sėkmingai ištrintas."
+"Your coupon was successfully applied.","Kuponas sėkmingai pritaikytas."
+"Please enter valid SKU key.","Prašome įvesti galiojantį prekės kodą."
+"Please enter the same value again.","Prašome vėl įvesti tą pačią vertę."
