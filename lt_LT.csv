@@ -217,6 +217,7 @@ Select...,Pasirinkite...
 "Order ID","Užsakymo nr."
 Month,Mėnuo
 Year,Metai
+or,arba
 "* Required Fields","* Privalomi laukai"
 "Billing Address","Mokėtojo Adresas"
 Company,Įmonė
@@ -239,6 +240,7 @@ Message:,Žinutė:
 "Incorrect CAPTCHA","Neteisingi paveikslėlio duomenys"
 "Incorrect CAPTCHA.","Neteisingi paveikslėlio duomenys."
 "Reload captcha",Atnaujinti
+"Please type the letters and numbers below","Įveskite raides ir skaičius žemiau"
 "Please type the letters below","Įveskite raides, žemiau"
 Day,Diena
 "Add Product","Pridėti produktą"
@@ -246,6 +248,7 @@ Day,Diena
 "Visible in Advanced Search","Matoma išplėstinėje paieškoje"
 "Go to Home Page","Grįžti į pradinį puslapį"
 "Click for price","Tikrinti kainą"
+Categories,Kategorijos
 "You added product %1 to the comparison list.","Produktą %1 įtraukėte į palyginimo sąrašą."
 "You removed product %1 from the comparison list.","Jūs pašalinote produktą %1 iš palyginimo sąrašo."
 "%1 items","%1 įrašai(-ų)"
@@ -276,6 +279,7 @@ Adding...,Dedama...
 Added,Pridėta
 "Add to Wishlist","Pridėti į pageidavimų sąrašą"
 "Meta Keywords","Meta Raktažodžiai"
+Layout,Išdėstymas
 "Add To Cart","Į krepšelį"
 "Add To Compare","Pridėti palyginimui"
 Ok,Gerai
@@ -400,6 +404,7 @@ save,išsaugoti
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dėkojame už užklausą. Mes jums atsakyme kaip galima greičiau."
 "Name is missing","Trūksta vardo"
 "Write Us","Parašykite mums"
+"Jot us a note and we’ll get back to you as quickly as possible.","Parašykite mums! Atsakysime jums iškart, kai tik galėsime."
 "What’s on your mind?","Jūsų klausimas"
 "Contact Form","Kontaktų Forma"
 "Contact Us",Kontaktai
@@ -598,6 +603,7 @@ here,čia
 "Continue to PayPal","Tęsti su PayPal"
 "Home Page","Pradinis puslapis"
 "Remember Me","Prisiminti mane"
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Pažymėti &quot;prisiminti mane&quot;, kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos."
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Pažymėti ""prisiminti mane"", kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos."
 Price:,Kaina:
 "Unable to save address. Please check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis."
@@ -679,6 +685,7 @@ Invoices,Sąskaitos
 "Delete Search","Ištrinti paiešką"
 "New Search","Nauja paieška"
 "Edit Search","Redaguoti paiešką"
+"Search entire store here...",Paieška...
 "There are no search terms available.","Nėra jokių paieškos terminų."
 yes,taip
 "Please enter a message.","Prašome įvesti žinutę."
