@@ -480,12 +480,14 @@ Fax,Faksas
 "Welcome to %store_name","Sveiki atvykę į %store_name"
 Email:,"El. paštas:"
 Password:,Slaptažodis:
+"Password you set when creating account","Slaptažodis kurį nurodėte registruojantis"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti."
 "Confirm Your Account","Patvirtinkite savo paskyrą"
 "Are you sure you want to delete this address?","Jūs įsitikinęs, kad norite ištrinti šį adresą?"
 Weak,Silpnas
 Medium,Vidutinis
 Strong,Stiprus
+"Very Strong","Labai stiprus"
 "Always optional.","Visada neprivaloma."
 "Billing Lastname","Mokėtojo pavardė"
 "Account Dashboard","Paskyros skydelis"
@@ -510,10 +512,11 @@ ordered,užsakyta
 "Grand Total","Iš Viso"
 Continue,Tęsti
 "Zip/Postal Code is Optional for","Pašto kodas yra neprivalomas"
-"My Downloadable Products","Mano Download'ai"
+"My Downloadable Products","Mano atsisiunčiami produktai"
 Pending,Laukiama
+"Go to <a href=""%1"">My Downloadable Products</a>","Eiti į <a href=""%1"">Mano atsisiunčiamus produktus</a>"
 "View Order","Peržiūrėti užsakymą"
-"You have not purchased any downloadable products yet.","Jūs nepirkote jokių download'ų dar."
+"You have not purchased any downloadable products yet.","Jūs neturite atsiunčiamų produktų."
 "Thank you, %store_name","Ačiū, %store_name"
 "Private Sales","Privatųs pardavimai"
 "Order #%1.","Užsakymas #%1."
@@ -606,6 +609,8 @@ here,čia
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Pažymėti &quot;prisiminti mane&quot;, kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos."
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Pažymėti ""prisiminti mane"", kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos."
 Price:,Kaina:
+"Notify me when the price drops","Praneškite man, kai kaina kris"
+"Notify me when this product is in stock","Praneškite man, kai ši prekės atsiras sandėlyje"
 "Unable to save address. Please check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis."
 "Coupon code is not valid","Kupono kodas negalioja"
 "This shipping method is not available. To use this shipping method, please contact us.","Šis pristatymo būdas neprieinamas. Jei norite pasinaudoti šiuo pristatymo būdą, prašome susisiekti su mumis."
@@ -647,6 +652,7 @@ Invoices,Sąskaitos
 "Order Date: ","Užsakymo data: "
 "Sold to:","Jūsų informacija:"
 "Invoice # ","Sąskaita # "
+"Move to Wish List","Pridėti į norų sąrašą"
 "Total Tax","Iš viso mokesčių"
 "Order Date","Užsakymo data"
 "Order Date (%1)","Užsakymo data (%1)"
@@ -739,7 +745,7 @@ description,aprašymas
 "Share Wish List","Dalintis norų sąrašu"
 "Add All to Cart","Viską į krepšelį"
 "Update Wish List","Atnaujinti norų sąrašą"
-"Move to Wishlist","Perkelti į norų sąrašą"
+"Move to Wishlist","Pridėti į norų sąrašą"
 "%1 has been added to your Wish List.","%1 buvo pridėta į jūsų pageidavimų sąrašą."
 "Email addresses, separated by commas","Įvesti kelis el. pašto adresus, atskirkite juos kableliais"
 "Check here to link an RSS feed to your Wish List.","Pažymėkite čia norėdami susieti RSS kanalą su savo norų sąrašu."
