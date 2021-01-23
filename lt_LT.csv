@@ -286,6 +286,12 @@ Ok,Gerai
 "Page not found","Puslapis nerastas"
 "Disallowed file type.","Neleistinas failo tipas."
 "You cannot add ""%1"" to the cart.","Negalite pridėti ""% 1"" į krepšelį."
+Priority,Prioritetas
+"Update Information","Atnaujinti informaciją"
+Conditions,Sąlygos
+"Discount Amount",Nuolaida
+"Start Time","Pradžios laikas"
+"End Time","Pabaigos laikas"
 "Catalog Advanced Search","Katalogo Išplėstinė Paieška"
 "Advanced Search Results","Išplėstinės paieškos rezultatai"
 "Search results for: '%1'","Paieškos rezultatai: ""%1"""
